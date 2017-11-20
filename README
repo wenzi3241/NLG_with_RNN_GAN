@@ -1,17 +1,17 @@
-RNN model for NLP
+# RNN model for NLP
 
-Dataset:
+## Dataset: https://bigbangtrans.wordpress.com/
 
-Model: RNN, GAN if have time
+## Model: RNN, GAN if have time
 
-Reference:
+## Reference:
 
-RNN model:
+1. RNN model:
 
-https://github.com/jamesrequa/TV-Script-RNN
+-https://github.com/jamesrequa/TV-Script-RNN
 
-https://github.com/shawnwun/RNNLG
+-https://github.com/shawnwun/RNNLG
 
-GAN:
+2. GAN:
 
-https://github.com/amirbar/rnn.wgan
+-https://github.com/amirbar/rnn.wgan
