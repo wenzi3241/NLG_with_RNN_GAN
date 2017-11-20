@@ -1,8 +1,14 @@
 # RNN model for NLP
 
-## Dataset: https://bigbangtrans.wordpress.com/
+## Dataset: 
 
-## Model: RNN, GAN if have time
+Preprocessed S1-S9: https://github.com/skashyap7/TBBTCorpus/tree/master/preprocessing
+
+Crawl from here: https://bigbangtrans.wordpress.com/
+
+## Proposal: 
+
+https://www.overleaf.com/12320491nprtqgdrczjh#/46853262/
 
 ## Reference:
 
