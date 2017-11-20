@@ -8,10 +8,10 @@
 
 1. RNN model:
 
--https://github.com/jamesrequa/TV-Script-RNN
+- https://github.com/jamesrequa/TV-Script-RNN
 
--https://github.com/shawnwun/RNNLG
+- https://github.com/shawnwun/RNNLG
 
 2. GAN:
 
--https://github.com/amirbar/rnn.wgan
+- https://github.com/amirbar/rnn.wgan
