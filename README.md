@@ -14,6 +14,8 @@ https://www.overleaf.com/12320491nprtqgdrczjh#/46853262/
 
 1. RNN model:
 
+- https://github.com/martin-gorner/tensorflow-rnn-shakespeare
+
 - https://github.com/jamesrequa/TV-Script-RNN
 
 - https://github.com/shawnwun/RNNLG
