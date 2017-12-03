@@ -11,7 +11,7 @@ for filename in os.listdir(raw_corpus_dir):
         char = re.findall(r'^\w+', line)
         if len(char) == 1:
             if char[0] == character:
-                newline = re.sub(r'^.*:', '', line)
+                newline = re.sub(r'^.*: ', '', line)
                 result.append(newline)
 
 output = os.path.join('../data/', character + '.txt')
