@@ -10,6 +10,10 @@ Crawl from here: https://bigbangtrans.wordpress.com/
 
 https://www.overleaf.com/12320491nprtqgdrczjh#/46853262/
 
+## Presentation:
+
+https://docs.google.com/a/ucsc.edu/presentation/d/1C149Q5amN2Wd5RcI1fNkQI4o9jKAumYMFtMlUE58bS8/edit?usp=sharing
+
 ## Reference:
 
 1. RNN model:
