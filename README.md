@@ -1,23 +1,34 @@
-# RNN model for NLP
+# RNN GAN models in NLG
 
-## Dataset: 
+Experiment using neural network RNN(char and word level) and GAN(char-level) in Natural Language Generation and their performance
 
-Preprocessed S1-S9: https://github.com/skashyap7/TBBTCorpus/tree/master/preprocessing
+### raw_corpus/
+
+The Big Bang Theory S1-S10: https://github.com/skashyap7/TBBTCorpus/tree/master/preprocessing
 
 Crawl from here: https://bigbangtrans.wordpress.com/
 
-## Proposal: 
+### data/
 
-https://www.overleaf.com/12320491nprtqgdrczjh#/46853262/
+Training data used for the experiment. Extracted all Sheldon transcripts from raw\_corpus
 
-## Presentation:
+### doc/
 
-https://docs.google.com/a/ucsc.edu/presentation/d/1C149Q5amN2Wd5RcI1fNkQI4o9jKAumYMFtMlUE58bS8/edit?usp=sharing
+All related report and presentation
 
-## Final Report:
-https://www.overleaf.com/12813553pcgtxdxycgfs#/48925826/
+### preprocess/
 
-## Reference:
+Codes for crawling data and preprocessing
+
+### rnn_based_solution/
+
+Codes for char and word level generation using RNN
+
+### GAN_result/
+
+Results of sample output and training logs after training GAN, codes are in the reference
+
+## Reference
 
 1. RNN model:
 
@@ -30,3 +41,7 @@ https://www.overleaf.com/12813553pcgtxdxycgfs#/48925826/
 2. GAN:
 
 - https://github.com/amirbar/rnn.wgan
+
+3. Crawler:
+
+- https://github.com/skashyap7/TBBTCorpus/tree/master/preprocessing
