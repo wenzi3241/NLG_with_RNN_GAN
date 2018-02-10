@@ -1,6 +1,6 @@
-# RNN GAN models in NLG
+# Neural-based models in NLG
 
-Experiment using neural network RNN(char and word level) and GAN(char-level) in Natural Language Generation and their performance
+Experiments using neural network RNN(char and word level) and GAN(char-level) in Natural Language Generation and their performance
 
 ### raw_corpus/
 
@@ -26,7 +26,7 @@ Codes for char and word level generation using RNN
 
 ### GAN_result/
 
-Results of sample output and training logs after training GAN, codes are in the reference
+Results of sample output and training logs after training GAN in char level with sequence length of 80, codes are in the reference
 
 ## Reference
 
